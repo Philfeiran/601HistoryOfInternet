@@ -2893,6 +2893,23 @@ fieldset:disabled a.btn {
   pointer-events: none;
 }
 
+.tlink {
+  font-weight: 400;
+  color: #f72c08;
+  text-decoration: none;
+}
+.tlink:hover {
+  color: #186ce9;
+  text-decoration: underline;
+}
+.tlink:focus, .tlink.focus {
+  text-decoration: underline;
+}
+.tlink:disabled, .tlink.disabled {
+  color: #6c757d;
+  pointer-events: none;
+}
+
 .btn-lg, .btn-group-lg > .btn {
   padding: 0.5rem 1rem;
   font-size: 1.25rem;
