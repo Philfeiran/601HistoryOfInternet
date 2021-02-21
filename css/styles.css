@@ -6093,6 +6093,12 @@ a.close.disabled {
   background-color: #75a8d1 !important;
 }
 
+.bg-how{
+  padding-top: 10rem;
+  background: linear-gradient(to bottom, rgb(173 114 71 / 80%) 0%, rgb(25 19 14 / 80%) 100%),url(../assets/img/pexels-website.jpg);
+  background-size: cover;
+}
+
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
