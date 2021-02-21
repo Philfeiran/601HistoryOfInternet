@@ -6119,6 +6119,11 @@ a.close.disabled {
   background-size: cover;
 }
 
+.bg-ppl{
+  background: linear-gradient(to bottom, rgb(183 36 36 / 0%) 0%, rgb(25 19 14 / 80%) 100%),url(../assets/img/pexels-people.jpg);
+  background-size: cover;
+}
+
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
