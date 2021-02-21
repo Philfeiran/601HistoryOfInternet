@@ -6109,6 +6109,11 @@ a.close.disabled {
   background-size: cover;
 }
 
+.bg-IS{
+  background: linear-gradient(to bottom, rgb(95 85 59 / 32%) 0%, rgb(25 19 14 / 80%) 100%),url(../assets/img/pexels-search.jpg);
+  background-size: cover;
+}
+
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
