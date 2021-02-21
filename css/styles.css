@@ -6098,6 +6098,11 @@ a.close.disabled {
   background: linear-gradient(to bottom, rgb(173 114 71 / 80%) 0%, rgb(25 19 14 / 80%) 100%),url(../assets/img/pexels-website.jpg);
   background-size: cover;
 }
+.bg-hoc{
+  padding-top: 10rem;
+  background: linear-gradient(to bottom, rgb(71 79 173 / 38%) 0%, rgb(25 19 14 / 80%) 100%),url(../assets/img/pexels-channel.jpg);
+  background-size: cover;
+}
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
